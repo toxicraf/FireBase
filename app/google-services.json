@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "720721034755",
+    "firebase_url": "https://java-1543273753092.firebaseio.com",
+    "project_id": "java-1543273753092",
+    "storage_bucket": "java-1543273753092.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720721034755:android:839468d7ab4f29f5d7d836",
+        "android_client_info": {
+          "package_name": "com.raf.glossary1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720721034755-aiobmo8uelehlv6qmers9afevtuhsfgo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApvi7SXpdAxalJHa_QYHTzGGXT5gekyco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "720721034755-aiobmo8uelehlv6qmers9afevtuhsfgo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720721034755:android:4f936af402bcb261d7d836",
+        "android_client_info": {
+          "package_name": "rs.in.raf1.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720721034755-aiobmo8uelehlv6qmers9afevtuhsfgo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApvi7SXpdAxalJHa_QYHTzGGXT5gekyco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "720721034755-aiobmo8uelehlv6qmers9afevtuhsfgo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
